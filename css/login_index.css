@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.section_box1{
+    width: 50%;
+    height: 50%;
+    background: url("../img/form_back.png") no-repeat;
+    background-size: 100% 100%;
+}
+.section_box_title{
+    font-size: 108px;
+    margin-bottom: 100px;
+}
