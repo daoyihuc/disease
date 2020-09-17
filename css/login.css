@@ -30,13 +30,14 @@ body{
 
 }
 .section_box_title{
-    font-size: 130px;
+    font-size: 38px;
     font-family: 黑体;
     font-weight: 500;
     color: #FFFFFF;
     /* line-height: 56px; */
     letter-spacing: 18.2px;
     margin-bottom: 10px;
+    text-align: center;
 }
 .defualt_button{
 
@@ -44,15 +45,15 @@ body{
     border-radius: 200px;
     outline: none;
     color: white;
-    padding: 58px 320px;
+    padding: 13px 100px;
     transition: all 1s linear;
 }
 .defualt_button1{
     outline: none;
-    margin-top: 113px;
+    margin-top: 70px;
     background: #02BED9;
     box-shadow: 0px 5px 16px 0px rgba(1, 165, 189, 0.75);
-    padding: 58px 341px;
+    padding: 13px 113px;
     opacity: 0;
     margin-left: 500px;
     transition: all 1s linear;
@@ -62,7 +63,7 @@ body{
     background: rgba(255, 255, 255, 0.24);
     border: 1px solid #fcfcfc;
     box-shadow: 0px 5px 16px 0px rgba(0, 0, 0, 0.11);
-    margin-top: 135px;
+    margin-top: 49px;
     opacity: 0;
     margin-right: 500px;
     transition: all 1s linear;
@@ -80,7 +81,8 @@ box-shadow:none;
 }
 
 .go_button{
-    margin-top: 100px;
+    margin-top: 20px;
+    width: 50px;
 }
 .go_button:hover{
     backdrop-filter: blur();
